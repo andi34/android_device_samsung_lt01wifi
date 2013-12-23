@@ -108,15 +108,15 @@
             16 - App switch
          For example, a device with Home, Back and Menu keys would set this
          config to 7. -->
-    <integer name="config_deviceHardwareKeys">7</integer>
+    <!-- <integer name="config_deviceHardwareKeys">7</integer> -->
 
     <!-- Boolean to enable stylus gestures -->
-    <bool name="config_stylusGestures">true</bool>
+    <!-- <bool name="config_stylusGestures">true</bool> -->
 
     <!-- Enable multi-user -->
     <integer name="config_multiuserMaximumUsers">5</integer>
 
     <!-- True if the Irda service should be started at system start -->
-    <bool name="config_enableIrdaManagerService">true</bool>
+    <!-- <bool name="config_enableIrdaManagerService">true</bool> -->
 
 </resources>
