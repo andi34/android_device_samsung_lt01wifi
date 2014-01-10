@@ -36,3 +36,6 @@ TARGET_OTA_ASSERT_DEVICE := lt01wifi,lt01wifixx,lt01wifiue,SM-T310
 # Recovery
 TARGET_RECOVERY_FSTAB := device/samsung/lt01wifi/rootdir/fstab.smdk4x12
 RECOVERY_FSTAB_VERSION := 2
+
+# TWRP (more in BoardCommonConfig.mk)
+DEVICE_RESOLUTION := 800x1280
